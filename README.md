@@ -16,5 +16,6 @@ This whole project feels like my personal Diablo 2 Open Battle.net 2.0! except n
 ---
 
 ## Installation  
-1. Clone the repo:
-git clone https://github.com/Luvvy420/
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/Luvvy420/luvvyaio.git
