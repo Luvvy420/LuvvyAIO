@@ -1,7 +1,7 @@
 # LuvvyAIO
 
 # luvvyaio  
-built with love, caffeine, and way too much testing.
+my attempt to learn C++ ~ built with love, caffeine, and way too much testing!
 
 ---
 
