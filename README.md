@@ -11,8 +11,7 @@ luvvyaio is my personal plugin bundle
 ---
 
 ## Why I built it  
-this whole project feels reminds me of my diablo 2 open battle.net days! except now the “hero editor” is my compiler, and the battlefield is no longer the blood moor. I love testing & being creative with solutions!
-I live for that “omgg it's working!!” moment! 
+this whole project feels reminds me of my diablo 2 open battle.net days! except now the “hero editor” is my compiler, and the battlefield is no longer the blood moor. I love testing, experimenting, and finding creative solutions. I live for that “omgg it’s working!!” moment.
 
 ---
 
